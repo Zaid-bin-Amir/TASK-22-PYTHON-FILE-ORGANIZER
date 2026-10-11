@@ -1,0 +1,16 @@
+Moved: README -> Others/README
+Moved: backup.zip -> Archives/backup.zip
+Moved: data.csv -> Documents/data.csv
+Moved: index.html -> Code/index.html
+Moved: logo.svg -> Images/logo.svg
+Moved: movie.mp4 -> Videos/movie.mp4
+Moved: notes.txt -> Documents/notes.txt
+Moved: photo1.jpg -> Images/photo1_1.jpg
+Moved: photo2.PNG -> Images/photo2.PNG
+Moved: report.docx -> Documents/report.docx
+Moved: resume.pdf -> Documents/resume.pdf
+Moved: script.py -> Code/script.py
+Moved: song.mp3 -> Audio/song.mp3
+Moved: unknown.xyz -> Others/unknown.xyz
+
+Total files moved: 14
